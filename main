@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Online Food Delivery Service in India | myonlinemeal.com </title>
+    <title>Recipe search | myonlinemeal.com </title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <style>
@@ -195,12 +195,64 @@ h1{
         </ul>
 
     </nav>
+    
     <section id="home">
         <h1 class="h-primary">Welcome to MyOnlineMeal</h1>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi, deleniti, nam laborum quasi culpa minima .</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.p> <br>
         <button class="btn">Order Now</button>
     </section>
+</section>
+<section class="orders">
+    <h2 class="h-primary center">Food Choices</h2>
+    <div id="services">
+        <div class="box">
+            <img src="img1.jpg" alt="">
+            <h2 class="h-secondary center"> Chilli Paneer </h2>
+            <h3> Ingredients:</h3>
+            <p class="center"> Lorem, ipsum dolor.</p>
+            <p class="center">  elit. Sit, ratione. </p>
+            <p class="center"> pariatur consequuntur amet. </p>
+            <button class="btn">Order Now</button>
+        </div>
+        <div class="box">
+            <img src="img2.jpg" alt="">
+            <h2 class="h-secondary center"> Cheesy Burger </h2>
+            <h3> Ingredients:</h3>
+            <p class="center"> Lorem, ipsum dolor.</p>
+            <p class="center">  elit. Sit, ratione. </p>
+            <p class="center"> pariatur consequuntur amet. </p>
+            <button class="btn">Order Now</button>
+        </div>
+        <div class="box">
+            <img src="img3.jpg" alt="">
+            <h2 class="h-secondary center"> Pizza </h2>
+            <h3> Ingredients:</h3>
+            <p class="center"> Lorem, ipsum dolor.</p>
+            <p class="center">  elit. Sit, ratione. </p>
+            <p class="center"> pariatur consequuntur amet. </p>
+            <button class="btn">Order Now</button>
+        </div>
+        <div class="box">
+            <img src="img4.jpg" alt="">
+            <h2 class="h-secondary center"> Butter Chicken </h2>
+            <h3> Ingredients:</h3>
+            <p class="center"> Lorem, ipsum dolor.</p>
+            <p class="center">  elit. Sit, ratione. </p>
+            <p class="center"> pariatur consequuntur amet. </p>
+            <button class="btn">Order Now</button>
+        </div>
+        <div class="box">
+            <img src="img5.jpg" alt="">
+            <h2 class="h-secondary center"> Boilled Egg </h2>
+            <h3> Ingredients:</h3>
+            <p class="center"> Lorem, ipsum dolor.</p>
+            <p class="center">  elit. Sit, ratione. </p>
+            <p class="center"> pariatur consequuntur amet. </p>
+            <button class="btn">Order Now</button>
+        </div>
+    </div>
+</section>
     <section class="services-container">
         <h1 class="h-primary center">Our Services</h1>
         <div id="services"> 
@@ -220,7 +272,7 @@ h1{
                 <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni aspernatur repudiandae eum, adipisci fugiat ad totam cum eveniet Lorem ipsum dolor sit amet consectetur adipisicing elit. At soluta, expedita distinctio magni laborum placeat dolores, dolorum iusto reprehenderit consequatur voluptatibus eos eligendi.impedit veniam reiciendis aliquam temporibus vel sunt perferendis iste error ab incidunt deleniti? Pariatur nobis asperiores perspiciatis!</p>
             </div>
         </div>
-    </section>
+    
     <section id="contact">
         <h1 class="h-primary center">Contact Us </h1>
         <div id="contact-box">
